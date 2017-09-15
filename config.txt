@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 edit database connection from local computer
 
+=======
+edit database connection
+>>>>>>> d7b7f16c1bf01d263870c3ec8a9a669291688172
