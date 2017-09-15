@@ -1,1 +1,1 @@
-edit database connection from another computer
+edit database connection
